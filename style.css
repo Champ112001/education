@@ -1,0 +1,72 @@
+body{
+	background-image: url(2.jpg);
+}
+
+a{
+	color:red;
+	font-size: 16px;
+}
+
+div{
+	color: #00FF00
+}
+
+#a1265 {
+	color: #47E1B8;
+}
+
+.Human{
+	color: #6EE181;
+}
+
+.Animal{
+	color: #9F42E1;
+}
+
+.lion {
+	color: #9F42E1;
+}
+
+.monkey{
+	color: #000000;
+}
+
+.fish{
+
+	color: #1FAAE1;
+}
+
+.message{
+	color: #747474;
+	background-color: #EAB2E1; 
+	border: 1px solid  #3CEA99;
+	font-size: 20px;
+	margin: 10px;
+	padding: 15px;
+}
+
+.success{
+	background-color: #B2EA6A;
+	color: #ffffff;
+}
+
+.fall{
+	background-color: #D65144;
+	color: #ffffff;
+}
+
+.info{
+
+	background-color: #4B8BF5;
+	color: #ffffff;
+}
+
+.message:hover{
+	border: 10px solid #3CEA99;
+	transform: rotate(45deg);
+	transition: 5s all;
+}
+
+
+	
+	
